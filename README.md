@@ -1,2 +1,2 @@
 # InTune
-Bluetooth Audio TV APP
+Android TV Bluetooth Audio APP
